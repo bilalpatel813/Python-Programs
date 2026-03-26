@@ -125,9 +125,9 @@ Bilal Patel
 
 If you find this useful:
 
-# - ⭐ Star the repo
-# - 🍴 Fork it
-# - 📢 Share it
+  - ⭐ Star the repo
+  - 🍴 Fork it
+  - 📢 Share it
 
 ---
 
