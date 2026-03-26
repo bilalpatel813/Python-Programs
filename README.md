@@ -1,10 +1,10 @@
-🐍 Python Programs
+# 🐍 Python Programs
 
 A collection of Python programs and mini-projects built for learning, practice, and real-world problem solving.
 
 ---
 
-📌 About This Repository
+# 📌 About This Repository
 
 This repository contains:
 
