@@ -117,7 +117,7 @@ Contributions are welcome!
 
 # 👨‍💻 Author
 
-Bilal Patel
+# Bilal Patel
 
 ---
 
