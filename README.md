@@ -70,7 +70,7 @@ This repository contains:
 
 # 🚀 How to Run
 
-# 1. Clone Repository
+# 1. Clone this Repository
 
 git clone https://github.com/bilalpatel813/Python-Programs.git
 
@@ -84,7 +84,7 @@ pip install pandas qrcode openpyxl
 
 # 4. Run Any Program
 
-python filename.py
+python yourfilename.py
 
 ---
 
